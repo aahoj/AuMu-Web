@@ -1,2 +1,2 @@
 # AuMu-Web
-eb minecraft serveru AuMu.
+web minecraft serveru AuMu.
